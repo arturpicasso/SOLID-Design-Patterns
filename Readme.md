@@ -26,6 +26,6 @@
             - a) Definina a interface (<b>PaymentStrategy</b>) que irá descrever o contrato para todas as estratégias de pagamento;
             - b) Crie as classes concretas (ex.: <b>CreditCardPayment</b> e <b>PayPalPayment</b>) onde serão implementadas pela interface PaymentStrategy;
             - c) Crie a classe <b>ShoppingCart</b> que aceitará uma estratégia de pagamento e utilizará essa estratégia para calcular o desconto;
-        - **strategy/index.php**
+        - EXECUTE O EXEMPLO:
             - Acesse a pasta raíz do projeto, e execute em seu terminal:
                 - php strategy/index.php;
