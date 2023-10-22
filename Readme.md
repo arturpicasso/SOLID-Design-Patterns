@@ -27,5 +27,5 @@
             - b) Crie as classes concretas (ex.: <b>CreditCardPayment</b> e <b>PayPalPayment</b>) onde serão implementadas pela interface PaymentStrategy;
             - c) Crie a classe <b>ShoppingCart</b> que aceitará uma estratégia de pagamento e utilizará essa estratégia para calcular o desconto;
         - EXECUTE O EXEMPLO:
-            - Acesse a pasta raíz do projeto, e execute em seu terminal:
+            - Acesse a pasta raíz do projeto, e execute em seu terminal o comando abaixo:
                 - php strategy/index.php;
