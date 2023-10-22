@@ -1,6 +1,6 @@
-## S.O.L.I.D. [Conteúdo](https://www.youtube.com/watch?v=6SfrO3D4dHM)
+## S.O.L.I.D.
 
-- Esses 5 princípios, quando aplicados corretamente, ajudam a criar um software mais robusto, flexível e fácil de manter, promovendo boas práticas de design orientado a objetos.
+- Esses 5 princípios, quando aplicados corretamente, ajudam a criar um software mais robusto, flexível e fácil de manter, promovendo boas práticas de design orientado a objetos. [Conteúdo](https://www.youtube.com/watch?v=6SfrO3D4dHM)
     - **(S)**.ingle Responsibility Principle - SRP
         - <b>Princípio da Responsabilidade Única</b>:
         - Uma classe deve ter apenas uma razão para mudar, ou seja, ela deve ter uma única responsabilidade. Isso ajuda a manter o código organizado e facilita a manutenção.
